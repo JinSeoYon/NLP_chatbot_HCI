@@ -1,7 +1,7 @@
 # NLP_HCI_ChatBot(seq2seq)
 NLG를 활용한 ChatBot을 개발함  
 
-![images](image/service.jpg)  
+![image](image/service.jpg)  
 
 
 # Learning Data
