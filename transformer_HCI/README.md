@@ -7,10 +7,9 @@ NLG를 활용한 ChatBot을 개발함
 # Learning Data
 Title|Contents|Other
 --|--|--
-데이터 이름|Chatbot data
-데이터 용도|한국어 챗봇  학습을 목적으로 사용한다.
-데이터 권한|MIT 라이센스
-데이터 출처|https://github.com/songys/Chatbot_data (송영숙님)
+데이터 이름|size_again
+데이터 용도|복통,두통과 관련한 간단한 데이터 제작
+데이터 출처| 본인 
 
 # Requirement
 Python 3.6.6   
@@ -59,7 +58,10 @@ tf.app.flags.DEFINE_boolean('xavier_initializer', True, 'set xavier initializer'
 python main.py
 
 # Predict
-python predict.py 남자친구가 너무 잘 생겼어
+python predict.py 
+어디아파 : 안녕? 어디가 아파?
+나 : 위가 쓰리고 배가 아파 
+어디아파 : 위염인것 같아요. 위염에는 
 
 # Reference
 Title|Contents
@@ -69,5 +71,5 @@ Paper|[Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 <!--
 # Author
-Taekyoon Choi / @taekyoonchoi (tgchoi03@gmail.com)
+Jin Seo Yon / (sheoyonj@naver.com)
 -->
