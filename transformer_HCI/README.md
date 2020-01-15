@@ -59,9 +59,7 @@ python main.py
 
 # Predict
 python predict.py 
-어디아파 : 안녕? 어디가 아파?  \n
-나 : 위가 쓰리고 배가 아파  \n
-어디아파 : 위염인것 같아요. 위염에는 \n
+
 
 # Reference
 Title|Contents
